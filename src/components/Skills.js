@@ -38,22 +38,22 @@ export const Skills = () => {
                         <p>My skills taken up from classes and some from my own interests<br></br></p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src={meter1} alt="" />
                                 <h5>Python</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
+                                <img src={meter2} alt="" />
                                 <h5>React</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                <img src={meter3} alt="" />
                                 <h5>MySQL</h5>
                             </div>
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src={meter1} alt="" />
                                 <h5>Web Development</h5>
                             </div><div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src={meter1} alt="" />
                                 <h5>GLPI</h5>
                             </div>
                         </Carousel>
